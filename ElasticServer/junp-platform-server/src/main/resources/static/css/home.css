@@ -1,0 +1,24 @@
+.header-img {
+    background-image: url("../img/header-small.png");
+    height: 60px;
+    width: 50px;
+}
+
+.layui-layout-admin .layui-header {
+    background-color: black;
+}
+
+.home-info {
+    height: 150px;
+    background-color: #252525;
+    color: #666666;
+}
+
+.home-info-2 {
+    height: 50px;
+    background-color: #333333;
+}
+
+.home-body {
+    left: 40px;
+}

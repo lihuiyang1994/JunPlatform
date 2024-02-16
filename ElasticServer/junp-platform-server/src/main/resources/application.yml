@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: jun-platform-server
+  thymeleaf:
+    cache: false
+    suffix: .html
+    mode: HTML
+  datasource:
+    url: jdbc:mariadb://localhost:3306/junp
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: root
+    password: root
+
+server:
+  port: 80
+  
