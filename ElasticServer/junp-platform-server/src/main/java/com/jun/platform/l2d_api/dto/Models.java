@@ -194,11 +194,6 @@ public class Models {
                     "textures" : { "id": /{size} }
                 }
                 """;
-        STR. """
-                {
-                    "textures" : { "id": \{size} }
-                }
-                """
         return null;
     }
 }
